@@ -43,15 +43,19 @@ body {
     padding-bottom: 0px;
 }
 
+#mainSection {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
 .leftcolumn {
     width: 67%;
-    float: left;
     /* border: 2px solid red; */
 }
 
 .rightcolumn {
     width: 30%;
-    float: left;
     /* margin-left: 20px; */
     /* align-items: center; */
     padding-left: 20px;
