@@ -63,5 +63,6 @@ table {
 }
 
 .table th img {
-    width: 50%;
+    width: 200px;
+    height: 220px;
 }
